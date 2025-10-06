@@ -26,4 +26,6 @@ ArtisanAI is an AI-powered platform designed to help local artisans market their
 
 ⚡ Social Media Caption Generator with Translation - Creates catchy captions in multiple languages for global buyers (API integration pending)
 
+⚡Buyer Frontend – Full functionality for buyers is planned but not yet implemented, including browsing products, managing wishlists, placing inquiries or orders, and tracking order status.
+
 
