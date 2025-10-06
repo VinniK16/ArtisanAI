@@ -30,8 +30,8 @@ APIs:
 
 
 Other Tools:
--Postman (API testing)
--Git & GitHub (version control)
+- Postman (API testing)
+- Git & GitHub (version control)
 
 <br/>
 
