@@ -5,6 +5,29 @@ AI-powered platform empowering local artisans to showcase their craft, tell thei
 ## About the Project
 ArtisanAI is an AI-powered platform designed to help local artisans market their crafts, tell their stories, and reach global audiences. It combines traditional craftsmanship with modern digital tools to enhance visibility, increase sales potential, and preserve cultural heritage.
 
+## TechStack
+Frontend:
+- React (UI development)
+- Vite (bundler & development server)
+- Tailwind CSS (styling & responsive layouts)
+- React Router (page navigation)
+
+Backend:
+- Node.js & Express (server & APIs)
+- MongoDB / Mongoose (database & data modeling)
+- Multer (file uploads: images/audio)
+- dotenv (environment variable management)
+- CORS & Body-Parser (handling requests & JSON parsing)
+
+
+APIs:
+- OpenAI API (SEO-Friendly product description & title, storytelling, product price and product tags)
+- Hugging Face Models (speech-to-text, image recognition, translation)
+
+Other Tools:
+-Postman (API testing)
+-Git & GitHub (version control)
+
 
 ## MVP Features
 - User Authentication & Profiles (Artisan + Buyer)
@@ -12,6 +35,14 @@ ArtisanAI is an AI-powered platform designed to help local artisans market their
 - Search & Browse Products (filters: price, category, location)
 - Artisan Dashboard to manage products
 - Basic Order/Inquiry System (buyers show interest → notify artisan)
+
+## USP Features (In - Progress)
+
+⭐ SEO-Friendly Product Description Generator - AI-powered generation of polished, SEO-optimized titles and product descriptions.
+⭐ AI Storytelling Assistant - Converts artisan voice or local language text into engaging craft stories in English.
+⭐ Smart Pricing Guidance - Suggests optimal pricing based on market trends and similar products.
+⭐ Product Type Prediction - Automatically detects craft type from uploaded images.
+⭐ Social Media Caption Generator with Translation - Creates catchy captions in multiple languages for global buyers.
   
 
 ## Features In Progress
