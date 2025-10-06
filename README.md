@@ -38,7 +38,7 @@ Other Tools:
 
 ## USP Features (In - Progress)
 
-⭐ SEO-Friendly Product Description Generator - AI-powered generation of polished, SEO-optimized titles and product descriptions.
+⭐ SEO-Friendly Product Description Generator - AI-powered generation of polished, SEO-optimized titles and product descriptions.<br/>
 ⭐ AI Storytelling Assistant - Converts artisan voice or local language text into engaging craft stories in English.
 ⭐ Smart Pricing Guidance - Suggests optimal pricing based on market trends and similar products.
 ⭐ Product Type Prediction - Automatically detects craft type from uploaded images.
