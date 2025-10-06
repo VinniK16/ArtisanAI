@@ -1,5 +1,5 @@
 # ArtisanAI
-AI-powered platform empowering local artisans to showcase their craft, tell their story, and reach a broader digital audience.
+Digital Wings for Traditional Crafts 🪽
 
 <br/>
 
