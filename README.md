@@ -2,11 +2,10 @@
 AI-powered platform empowering local artisans to showcase their craft, tell their story, and reach a broader digital audience.
 
 <br/>
-
 ## About the Project
 ArtisanAI is an AI-powered platform designed to help local artisans market their crafts, tell their stories, and reach global audiences. It combines traditional craftsmanship with modern digital tools to enhance visibility, increase sales potential, and preserve cultural heritage.
 
-
+<br/>
 ## TechStack
 Frontend:
 - React (UI development)
@@ -30,7 +29,7 @@ Other Tools:
 -Postman (API testing)
 -Git & GitHub (version control)
 
-
+<br/>
 ## MVP Features
 - User Authentication & Profiles (Artisan + Buyer)
 - Product Upload (title, description, price, images)
@@ -38,7 +37,7 @@ Other Tools:
 - Artisan Dashboard to manage products
 - Basic Order/Inquiry System (buyers show interest → notify artisan)
   
-
+<br/>
 ## USP Features (In - Progress)
 
 ⭐ SEO-Friendly Product Description Generator - AI-powered generation of polished, SEO-optimized titles and product descriptions
@@ -51,7 +50,7 @@ Other Tools:
 
 ⭐ Social Media Caption Generator with Translation - Creates catchy captions in multiple languages for global buyers
   
-
+<br/>
 ## Features In Progress
 
 ⚡ SEO-Friendly Product Title and Description Generator - Generates polished, SEO-optimized titles and product descriptions (API integration pending)
@@ -66,7 +65,7 @@ Other Tools:
 
 ⚡Buyer Frontend – Full functionality for buyers is planned but not yet implemented, including browsing products, managing wishlists, placing inquiries or orders, and tracking order status.
 
-
+<br/>
 ## Future Features / Advanced Expansion
 
 🚀 AI Recommendation Engine - Suggests products to buyers based on taste, browsing history, and cultural preferences
