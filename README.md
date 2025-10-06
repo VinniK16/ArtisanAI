@@ -14,7 +14,7 @@ ArtisanAI is an AI-powered platform designed to help local artisans market their
 - Basic Order/Inquiry System (buyers show interest → notify artisan)
   
 
-  ## Features In Progress
+## Features In Progress
 
 ⚡ SEO-Friendly Product Title and Description Generator - Generates polished, SEO-optimized titles and product descriptions (API integration pending)
 
@@ -23,6 +23,7 @@ ArtisanAI is an AI-powered platform designed to help local artisans market their
 ⚡ Smart Pricing Guidance - Suggests optimal price ranges for products (API integration pending)
 
 ⚡ Product Type Prediction - Automatically detects craft type from uploaded images (API integration pending)
+
 ⚡ Social Media Caption Generator with Translation - Creates catchy captions in multiple languages for global buyers (API integration pending)
 
 
