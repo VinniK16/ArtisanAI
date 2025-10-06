@@ -1,5 +1,5 @@
 # ArtisanAI
-Digital Wings for Traditional Crafts 🪽
+Digital Wings for Traditional Crafts 🕊
 
 <br/>
 
