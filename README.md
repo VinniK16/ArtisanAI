@@ -12,6 +12,7 @@ ArtisanAI is an AI-powered platform designed to help local artisans market their
 - Search & Browse Products (filters: price, category, location)
 - Artisan Dashboard to manage products
 - Basic Order/Inquiry System (buyers show interest → notify artisan)
+  
 
   ## Features In Progress
 
