@@ -66,3 +66,18 @@ Other Tools:
 ⚡Buyer Frontend – Full functionality for buyers is planned but not yet implemented, including browsing products, managing wishlists, placing inquiries or orders, and tracking order status.
 
 
+## Future Features / Advanced Expansion
+
+🚀 AI Recommendation Engine - Suggests products to buyers based on taste, browsing history, and cultural preferences
+
+🚀 Virtual Try-On / AR Previews - Allows buyers to visualize crafts (furniture, jewelry, clothing) in real-world settings
+
+🚀 Negotiation AI Bot - Facilitates fair pricing negotiations between artisans and buyers
+
+🚀 Market Insights Dashboard - Provides artisans with trends, seasonal demand, and festival-based market intelligence
+
+🚀 Community & Collaboration Hub - Connects artisans with NGOs, designers, and global marketplaces
+
+🚀 Voice & Regional Language First Platform - Full voice-driven interface for artisans with limited literacy or digital experience
+
+
