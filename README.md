@@ -15,6 +15,7 @@ Frontend:
 - Tailwind CSS (styling & responsive layouts)
 - React Router (page navigation)
 
+
 Backend:
 - Node.js & Express (server & APIs)
 - MongoDB / Mongoose (database & data modeling)
@@ -26,6 +27,7 @@ Backend:
 APIs:
 - OpenAI API (SEO-Friendly product description & title, storytelling, product price and product tags)
 - Hugging Face Models (speech-to-text, image recognition, translation)
+
 
 Other Tools:
 -Postman (API testing)
@@ -72,7 +74,7 @@ Other Tools:
 
 <br/>
 
-## Future Features / Advanced Expansion
+## Future Features
 
 🚀 AI Recommendation Engine - Suggests products to buyers based on taste, browsing history, and cultural preferences
 
